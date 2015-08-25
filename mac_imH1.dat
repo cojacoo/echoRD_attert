@@ -1,0 +1,6 @@
+depth,file,threshold_l,threshold_u
+0.1,./Sept12_Himages/H1/h1_h1x.png,400,10000
+0.3,./Sept12_Himages/H1/h1_h2x.png,400,10000
+0.5,./Sept12_Himages/H1/h1_h3x.png,400,10000
+0.9,./Sept12_Himages/H1/h1_h4x.png,600,10000
+1.1,./Sept12_Himages/H1/h1_h4x.png,600,10000
